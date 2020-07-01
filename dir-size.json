@@ -1,0 +1,3 @@
+{"time": "2020-07-01 08:31:23,096" ,"name": "dir-size" ,"level": "INFO" ,"message": "START - getDirSize"}
+{"time": "2020-07-01 08:31:23,096" ,"name": "dir-size" ,"level": "INFO" ,"message": "CUserschrisDownloadsdirsizetest"}
+{"time": "2020-07-01 08:31:23,103" ,"name": "dir-size" ,"level": "INFO" ,"message": "getDirSize(CUserschrisDownloadsdirsizetest) END dir_count(4) file_count(4)"}

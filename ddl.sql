@@ -1,0 +1,12 @@
+-- Author:  Christopher Mortimer
+-- Date:    2020-07-01
+-- Desc:    Table DDL for loading the logs into Teradata
+
+DROP TABLE PRD_ADS_HWD_WDAPGRP_DB.DIR_SIZE; 
+CREATE TABLE PRD_ADS_HWD_WDAPGRP_DB.DIR_SIZE (
+  ID_COL VARCHAR(100) 
+  , DIR_CONCAT VARCHAR(100)
+  , JSON_DATA JSON (16776192)  
+)
+PRIMARY INDEX(ID_COL)
+;
